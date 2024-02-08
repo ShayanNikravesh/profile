@@ -216,22 +216,23 @@ li a:hover {
     padding: 2rem;
     text-align: center;
     max-width: 200px;
+    border-radius: 100%;
 }
 
-.fancy::before {
-    content: "";
+/*.fancy::before {*/
+/*    content: "";*/
 
-    position: absolute;
-    z-index: -1;
-    bottom: 15px;
-    right: 5px;
-    width: 50%;
-    top: 80%;
-    max-width: 200px;
+/*    position: absolute;*/
+/*    z-index: -1;*/
+/*    bottom: 15px;*/
+/*    right: 5px;*/
+/*    width: 50%;*/
+/*    top: 80%;*/
+/*    max-width: 200px;*/
 
-    box-shadow: 4px 13px 10px #f9532d;
-    rotate: 4deg;
-}
+/*    box-shadow: 4px 13px 10px #f9532d;*/
+/*    rotate: 4deg;*/
+/*}*/
 
 .anime{
     animation: navani .3s ease forwards;
